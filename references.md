@@ -1,11 +1,4 @@
-conflicting text lol
-f
-fa
-f
-da
-f
-ds
-f
+# References
 
-dasf
-dsfa
+* octocat 1 😈
+
